@@ -1,2 +1,3 @@
 hello git!
 I like it.
+Because it is useful!
